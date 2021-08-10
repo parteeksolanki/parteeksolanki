@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parteeksolanki
 - 👀 I’m interested in learning new things related to CS
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Ruby
 - 📫 How to reach me? I can be reached at parteeksolanki@gmail.com
 
 <!---
